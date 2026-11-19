@@ -1,6 +1,6 @@
 # Software FJ: Sistema Integral de Gestión de Clientes, Servicios y Reservas
 
-Proyecto de Programación orientada a objetos en Python, desarrollado de forma individual por **Samuel David Meneses** (SENA, Análisis y Desarrollo de Software).
+Proyecto de Programación orientada a objetos en Python, desarrollado de forma individual Autoria: **Samuel David Meneses** (UNAD, ECBTI).
 
 El sistema gestiona clientes, servicios (salas, equipos y asesorías) y reservas para la empresa ficticia **Software FJ**, sin usar bases de datos. Todo se maneja con objetos y listas en memoria; los archivos se usan únicamente para el registro de eventos y errores (logs).
 
@@ -57,4 +57,4 @@ El archivo `logs/eventos.log` se genera automáticamente con todos los eventos y
 
 ## Autor
 
-Samuel David Meneses, aprendiz SENA, Norte de Santander (2026).
+Samuel David Meneses, Estudiante UNAD, Norte de Santander (2026).
