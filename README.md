@@ -48,12 +48,12 @@ El archivo `logs/eventos.log` se genera automáticamente con todos los eventos y
 ## Estado del desarrollo
 
 - [x] Estructura del repositorio
-- [ ] Excepciones personalizadas
-- [ ] Clase abstracta Entidad y clase Cliente
-- [ ] Clase abstracta Servicio y tres servicios especializados
-- [ ] Clase Reserva
-- [ ] Logger y simulación de 10 operaciones
-- [ ] Informe (portada, introducción, enlace, conclusiones, referencias APA)
+- [x] Excepciones personalizadas
+- [x] Clase abstracta Entidad y clase Cliente
+- [x] Clase abstracta Servicio y tres servicios especializados
+- [x] Clase Reserva
+- [x] Logger y simulación de 10 operaciones
+- [x] Informe (portada, introducción, enlace, conclusiones, referencias APA)
 
 ## Autor
 
